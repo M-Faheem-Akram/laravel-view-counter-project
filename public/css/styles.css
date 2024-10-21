@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /* Stack elements vertically */
+}
+
+h1 {
+    margin: 10px 0; /* Add space between the headings */
+    font-size: 40px;
+    text-align: center;
+}
+
+
